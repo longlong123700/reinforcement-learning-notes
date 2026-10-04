@@ -3,7 +3,8 @@
 ## 进度
 
 - [x] 第一题：Effect of Effective Horizon，(a)–(d)
-- [ ] 第二题及后续题目
+- [x] 第二题：Reward Hacking
+- [ ] 第三题及后续题目
 
 ## 文件
 
