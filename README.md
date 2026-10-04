@@ -11,6 +11,6 @@
 
 ## Stanford Cs234作业
 
-- [Assignment 1](courses/stanford-cs234/winter-2026/assignment-1/latex/template.pdf)
+- [Assignment 1](courses/stanford-cs234/winter-2026/assignment-1.pdf)
 
-这是个人学习记录。题目、模板及配图来自课程材料，个人解答仅代表当前理解，不是官方答案。未完成内容保留在原模板中。
+这是个人学习记录。作业题目及配图来自课程材料，个人解答仅代表当前理解，不是官方答案。PDF 中尚未完成的题目保留空白解答区域。
