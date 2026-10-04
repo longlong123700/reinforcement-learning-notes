@@ -9,15 +9,8 @@
 | Stanford CS234 · Winter 2026 | Assignment 1 | 第一题 (a)–(d) 已完成，其余进行中 | 2026-10-04 |
 | 西湖 RL | 课程学习 | 已看完至第 4 章 | 2026-10-04 |
 
-## 作业入口
+## Stanford Cs234作业
 
-- [Assignment 1 说明](courses/stanford-cs234/winter-2026/assignment-1/README.md)
-- [阅读现有 PDF](courses/stanford-cs234/winter-2026/assignment-1/latex/template.pdf)
-- [LaTeX 源码](courses/stanford-cs234/winter-2026/assignment-1/latex/template.tex)
-- [学习日志](LEARNING_LOG.md)
-
-## 记录方式
-
-后续按课程、学期和作业整理文件。每次学习后，记录完成内容、疑问和下一步；实验完成后补充运行方法与结果。
+- [Assignment 1](courses/stanford-cs234/winter-2026/assignment-1/README.md)
 
 这是个人学习记录。题目、模板及配图来自课程材料，个人解答仅代表当前理解，不是官方答案。未完成内容保留在原模板中。
