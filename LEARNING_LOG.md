@@ -2,6 +2,13 @@
 
 ## 2026-10-04
 
+### 西湖 RL
+
+- 已完成：课程已看完至第 4 章（含第 4 章）。
+- 下一步：继续第 5 章。
+
+### Stanford CS234
+
 - 课程：Stanford CS234，Winter 2026。
 - 作业：Assignment 1。
 - 已完成：第一题 Effect of Effective Horizon 的 (a)–(d)。
