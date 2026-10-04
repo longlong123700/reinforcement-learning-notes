@@ -9,7 +9,7 @@ A record of my reinforcement learning course notes, assignment solutions, and fu
 | Course | Assignment / Activity | Progress | Last Updated |
 | --- | --- | --- | --- |
 | Stanford CS234 · Winter 2026 | Assignment 1 | Questions 1 and 2 completed; remaining questions in progress | 2026-10-04 |
-| Westlake RL | Course study | Finished watching through Chapter 4 | 2026-10-04 |
+| XiHu University RL | Course study | Finished watching through Chapter 4 | 2026-10-04 |
 
 ## Stanford CS234 Assignments
 
