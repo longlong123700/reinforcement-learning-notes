@@ -6,13 +6,13 @@ A record of my reinforcement learning course notes, assignment solutions, and fu
 
 ## Current Progress
 
-| Course | Assignment / Activity | Progress | Last Updated |
-| --- | --- | --- | --- |
-| Stanford CS234 · Winter 2026 | Assignment 1 | Questions 1, 2, and 3 (a)–(k) completed; Question 4 pending | 2026-10-05 |
-| XiHu University RL | Course study | Finished watching through Chapter 4 | 2026-10-04 |
+| Course | Assignment / Activity | Current Progress |
+| --- | --- | --- |
+| Stanford CS234 · Winter 2026 | Assignment 1 | Solutions to Questions 1–3 have been written; the PI/VI implementations, discount-factor experiments, and written analysis for Question 4 (RiverSwim) are complete. |
+| XiHu University RL | Course study | Finished watching through Chapter 4 |
 
 ## Stanford CS234 Assignments
 
 - [Assignment 1](courses/stanford-cs234/winter-2026/assignment-1.pdf)
 
-This is a personal learning record. Assignment questions and figures come from the course materials. My solutions reflect my current understanding and are not official answers. Unfinished questions retain blank answer areas in the PDF.
+This is a personal learning record. Assignment questions and figures come from the course materials. My solutions are not official answers, and not all mathematical derivations have been independently reviewed.
