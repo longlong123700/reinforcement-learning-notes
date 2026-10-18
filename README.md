@@ -8,8 +8,8 @@
 
 | 课程 | 作业 / 学习内容 | 当前进度 |
 | --- | --- | --- |
-| Stanford CS234 · Winter 2026 | Assignment 1 | 第 1–3 题解答已填写；第 4 题 RiverSwim 的 PI/VI 实现、折扣因子实验及书面分析已完成。 |
-| 西湖大学 RL | 课程学习 | 已看完至第 4 章 |
+| Stanford CS234 · Winter 2026 | Assignment 1 | agm1 已全部完成 |
+| 西湖大学 RL | 课程学习 | 完成至第 4 章 |
 
 ## Stanford CS234 作业
 
