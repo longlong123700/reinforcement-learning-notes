@@ -14,5 +14,6 @@ A record of my reinforcement learning course notes, assignment solutions, and fu
 ## Stanford CS234 Assignments
 
 - [Assignment 1](courses/stanford-cs234/winter-2026/assignment-1.pdf)
+- [Assignment 1 Python Code](courses/stanford-cs234/winter-2026/code/vi_and_pi.py) · [RiverSwim Environment](courses/stanford-cs234/winter-2026/code/riverswim.py)
 
 This is a personal learning record. Assignment questions and figures come from the course materials. My solutions are not official answers, and not all mathematical derivations have been independently reviewed.

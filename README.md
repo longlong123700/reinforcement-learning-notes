@@ -14,5 +14,6 @@
 ## Stanford CS234 作业
 
 - [Assignment 1](courses/stanford-cs234/winter-2026/assignment-1.pdf)
+- [Assignment 1 Python 作业](courses/stanford-cs234/winter-2026/code/vi_and_pi.py) · [RiverSwim 环境](courses/stanford-cs234/winter-2026/code/riverswim.py)
 
 这是个人学习记录。作业题目及配图来自课程材料，个人解答不是官方答案，数学推导尚未全部独立复核。
